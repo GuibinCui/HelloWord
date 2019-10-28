@@ -9,4 +9,4 @@ spring:
           search-paths: ZuulGateway
           username: username
           password: password
-          default-label: prod
+          default-label: prod2
