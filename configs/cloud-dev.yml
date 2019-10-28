@@ -1,12 +1,2 @@
-spring:
-  application:
-    name: config-server
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/hellxz/SpringCloudlearn
-          search-paths: ZuulGateway
-          username: username
-          password: password
-          default-label: dev2
+server:
+  port: 8888
