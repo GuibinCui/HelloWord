@@ -1,1 +1,3 @@
-name: 小花
+test:
+  hello:
+    name: 小花
